@@ -1,4 +1,4 @@
-package noobchain;
+package invidual;
 
 import java.security.Key;
 import java.security.PrivateKey;
