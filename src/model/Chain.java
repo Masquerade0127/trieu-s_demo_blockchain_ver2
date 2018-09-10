@@ -67,7 +67,7 @@ public class Chain {
             //set difficulty
             arrL_blockchain.get(arrL_blockchain.size()-1).mine(i_difficulty);
             //set index for genesis block
-//            arrL_blockchain.get(arrL_blockchain.size()-1).setIndex(0);
+            //arrL_blockchain.get(arrL_blockchain.size()-1).setIndex(0);
         }
         else{
             //create new block
